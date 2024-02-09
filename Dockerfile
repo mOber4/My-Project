@@ -1,6 +1,6 @@
 # parameters
 ARG REPO_NAME="my-project"
-ARG DESCRIPTION="My first Duckietown project"
+ARG DESCRIPTION="My first DTProject for Duckietown"
 ARG MAINTAINER="micah ober (magicinc.org)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
